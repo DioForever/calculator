@@ -6,16 +6,16 @@
   Ostatní dokumenty:
   - ?
 - # Popis
-  Funkce produktu jsou základní aritmetické funkce:
+  - Funkce produktu jsou základní aritmetické funkce:
     - sčítání
     - odčítání
     - dělení
     - násobneé
-  Funkce nuté pro využití:
+  - Funkce nuté pro využití:
     - vymazat současné výpočty
     - zobrazit výsledek
     - tečka (pro desetiné číslo)
-  Rozšířenější funkce:
+  - Rozšířenější funkce:
     - mocniny
     - odmocniny
     - modulus
