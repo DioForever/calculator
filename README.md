@@ -34,6 +34,5 @@
       - Vymazat pamět, přidat do paměti, odendat z paměti
     - Grid tlačítek kolem/přes polovinu výšky okna od spoda, vyrovnaně
       - +, -, *, /, √, ^
-      ![image](https://github.com/DioForever/calculator/assets/78236175/82edf66d-9a43-4421-be43-21a5d6969d97)
-      <img src=url(https://github.com/DioForever/calculator/assets/78236175/82edf66d-9a43-4421-be43-21a5d6969d97) alt="drawing" width="200"/>
+    <img src=url(https://github.com/DioForever/calculator/assets/78236175/82edf66d-9a43-4421-be43-21a5d6969d97) alt="drawing" width="100"/>
 
