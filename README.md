@@ -8,23 +8,31 @@
     
 - ## Popis
   - ### Funkce
-    - Funkce produktu jsou základní aritmetické funkce:
+    1. Funkce produktu jsou základní aritmetické funkce:
       - sčítání
       - odčítání
       - dělení
       - násobneé
-    - Funkce nuté pro využití:
+    2. Funkce nuté pro využití:
       - vymazat současné výpočty
       - zobrazit výsledek
       - tečka (pro desetiné číslo)
-    - Rozšířenější funkce:
+    3. Rozšířenější funkce:
       - mocniny
       - odmocniny
       - modulus
         
   - ### Uživatelské skupiny
-    - Normální uživatel
+    1. Normální uživatel
       - Základní aritmetické operace
-    - Programátor
+      2. Programátor
       - Možnost práce s binárními čísli
-  
+  - ### Uživatelské prostředí
+    - Historie výpočtů (krátká) a tlačítko na rozbrazení plné historie
+    - Současný výpočet/výsledek
+    - Práce s pamětí
+      - Vymazat pamět, přidat do paměti, odendat z paměti
+    - Grid tlačítek kolem/přes polovinu výšky okna od spoda, vyrovnaně
+      - +, -, *, /, √, ^
+    - ![image](https://github.com/DioForever/calculator/assets/78236175/82edf66d-9a43-4421-be43-21a5d6969d97)
+
