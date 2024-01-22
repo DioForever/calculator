@@ -7,7 +7,7 @@
   - ?
     
 - ## Popis
-  - # Funkce
+  - ### Funkce
     - Funkce produktu jsou základní aritmetické funkce:
       - sčítání
       - odčítání
@@ -22,7 +22,7 @@
       - odmocniny
       - modulus
         
-  - # Uživatelské skupiny
+  - ### Uživatelské skupiny
     - Normální uživatel
       - Základní aritmetické operace
     - Programátor
