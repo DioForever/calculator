@@ -14,7 +14,10 @@
     Budou tam dva profily, které si může uživatel vybrat. **Normální uživatel**, pouze základní funkce a **programátor** by měl možnost překliknout do jiného zobrazení čísel (binárního, hexadecimálního), u kterých může využívat také základní funkce, zároveň bude moct používat logické operace.
     
   - ### Uživatelské prostředí
-    Tlačítko, pro přestup do **nastavení**, kde si uživatel může nastavit font, velikost fontu a počet desetinných míst. Zobrazení **historie** výpočtů, defaultně krátkou ale s možností rozkliknout a zobrazi plnou historii. Práce s **pamětí**, ukládání/mazání výpočtů do/z paměti, načítání z paměti a mazání celé paměti. Grid tlačítek pro všechny funkce popsané ve funkcích.
+    Tlačítko, pro přestup do **nastavení**, kde si uživatel může nastavit barevnou kombinaci aplikace, font, velikost fontu a počet desetinných míst. Zobrazení **historie** výpočtů, defaultně krátkou ale s možností rozkliknout a zobrazi plnou historii. Práce s **pamětí**, ukládání/mazání výpočtů do/z paměti, načítání z paměti a mazání celé paměti. Grid tlačítek pro všechny funkce popsané ve funkcích.
     [<img src="[image.png](https://github.com/DioForever/calculator/assets/78236175/82edf66d-9a43-4421-be43-21a5d6969d97)" width="250"/>](image.png)
 
-  - ### 
+  - ###  Omezení návrhu a implementace
+    Aplikace nebude obsahovat možnost kopírovat a vkládat, zkratky do aplikace 
+  - ### Předpoklady a závislosti
+
