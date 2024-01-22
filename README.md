@@ -8,31 +8,13 @@
     
 - ## Popis
   - ### Funkce
-    -  Funkce produktu jsou základní aritmetické funkce:
-      - sčítání
-      - odčítání
-      - dělení
-      - násobneé
-    -  Funkce nuté pro využití:
-      - vymazat současné výpočty
-      - zobrazit výsledek
-      - tečka (pro desetiné číslo)
-    -  Rozšířenější funkce:
-      - mocniny
-      - odmocniny
-      - modulus
+    Funkce zahrnují **základní arimetické** funkce jako je sčítání, odčítání, dělení a násobení a další **základní funkce** jako jako mocniny, odmocnity, modulus. Funkce **požadované pro využití aplikace** jako vymazání současného výpočtu, zobrazení výsledku a zapisování desetiných čísel. **Rozšířené funkce** jako zobrazení čísel v binárním zobrazení či hexadecimálním, a práce s těmito čísli jako v základních funkcích. Další rozšířené funkce jsou **logické operace** jako or, and, xor. **Nastavení**, kde si uživatel může nastavit počet zobrazených desetiných čísel.
         
   - ### Uživatelské skupiny
-    1. Normální uživatel
-      - Základní aritmetické operace
-      2. Programátor
-      - Možnost práce s binárními čísli
+    Budou tam dva profily, které si může uživatel vybrat. **Normální uživatel**, pouze základní funkce a **programátor** by měl možnost překliknout do jiného zobrazení čísel (binárního, hexadecimálního), u kterých může využívat také základní funkce, zároveň bude moct používat logické operace.
+    
   - ### Uživatelské prostředí
-    - Historie výpočtů (krátká) a tlačítko na rozbrazení plné historie
-    - Současný výpočet/výsledek
-    - Práce s pamětí
-      - Vymazat pamět, přidat do paměti, odendat z paměti
-    - Grid tlačítek kolem/přes polovinu výšky okna od spoda, vyrovnaně
-      - +, -, *, /, √, ^
+    Tlačítko, pro přestup do **nastavení**, kde si uživatel může nastavit font, velikost fontu a počet desetinných míst. Zobrazení **historie** výpočtů, defaultně krátkou ale s možností rozkliknout a zobrazi plnou historii. Práce s **pamětí**, ukládání/mazání výpočtů do/z paměti, načítání z paměti a mazání celé paměti. Grid tlačítek pro všechny funkce popsané ve funkcích.
     [<img src="[image.png](https://github.com/DioForever/calculator/assets/78236175/82edf66d-9a43-4421-be43-21a5d6969d97)" width="250"/>](image.png)
 
+  - ### 
