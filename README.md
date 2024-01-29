@@ -8,7 +8,7 @@
     
 - ## Popis
   - ### Funkce
-    Funkce zahrnují **základní arimetické** funkce jako je sčítání, odčítání, dělení, násobení, mocniny, odmocnity a další **základní funkce** jako modulus. Funkce **požadované pro využití aplikace** jako vymazání současného výpočtu, zobrazení výsledku a zapisování desetiných čísel. **Rozšířené funkce** jako zobrazení čísel v binárním zobrazení či hexadecimálním, a práce s těmito čísli jako v základních funkcích. Další rozšířené funkce jsou **logické operace** jako or, and, xor. **Nastavení**, kde si uživatel může nastavit počet zobrazených desetiných čísel.
+    Funkce zahrnují **základní arimetické** funkce jako je sčítání, odčítání, dělení, násobení, mocniny, odmocnity a další **základní funkce** jako modulus. Funkce **požadované pro využití aplikace** jako vymazání současného výpočtu, zobrazení výsledku a zapisování desetiných čísel. **Rozšířené funkce** jako zobrazení čísel v binárním zobrazení či hexadecimálním, a práce s těmito čísli jako v základních funkcích. Další rozšířené funkce jsou **logické operace** jako OR, AND, XOR. **Nastavení**, kde si uživatel může nastavit počet zobrazených desetiných čísel.
         
   - ### Uživatelské skupiny
     Budou tam dva profily, které si může uživatel vybrat. **Normální uživatel**, pouze základní funkce a **programátor** by měl možnost překliknout do jiného zobrazení čísel (binárního, hexadecimálního), u kterých může využívat také základní funkce, zároveň bude moct používat logické operace.
@@ -26,10 +26,22 @@
        Desktopová aplikace, nebude tam víc věcí než nutno, základní operace a další operace přes rozkliknutí možné přidat.
 - ## Vlastnosti systému
   - ### Aritmetické výpočty
+    Důležitost: **HIGH**
     Základní aritmetické výpočty jako sčítání, odčítání, dělení, násobení, mocniny, odmocniny.
+  - ### Základní
+    Důležitost: **HIGH**
+    Mazání výpočtů, zobrazení výsledků.
   - ### Binární výpočty a logické operace
+    Důležitost: **MIDDLE**
     Aritmemitcké výpočty s číslem zobrazené v binární podobě, možnost si zvolit kolika bitová čísla se vuyžívají. Možnost provádět logické operace, NOT, AND, OR, XOR, NAND, NOR, EXCLUSIVE OR.
+  - ### Historie
+    Důležitost: **MIDDLE**
+    Zobrazení pouze průběžných výsledku (všech).
+  - ### Ukládání v paměti
+    Důležitost: **LOW**
+    Ukládání průběžných výpočtů a pozdější načtení zpátky. V případě že potřebujeme vypnout aplikaci ci jít počítat něco jiného tato funkce uloží historii a současný výpočet.
   - ### Nastavení
+    Důležitost: **LOW**
     Přidání Binárních výpočtů a logických operací, změna fontu, změna velikosti fontu, změna zbarvení aplikace.
   - ### Popis a důležitost
     
