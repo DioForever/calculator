@@ -26,23 +26,24 @@
        Desktopová aplikace, nebude tam víc věcí než nutno, základní operace a další operace přes rozkliknutí možné přidat.
 - ## Vlastnosti systému
   - ### Aritmetické výpočty
-    Důležitost: **HIGH**
-    Základní aritmetické výpočty jako sčítání, odčítání, dělení, násobení, mocniny, odmocniny.
+    - Důležitost: **HIGH**
+    - Základní aritmetické výpočty jako sčítání, odčítání, dělení, násobení, mocniny, odmocniny.
   - ### Základní
-    Důležitost: **HIGH**
-    Mazání výpočtů, zobrazení výsledků.
+    - Důležitost: **HIGH**
+    - Mazání výpočtů, zobrazení výsledků.
   - ### Binární výpočty a logické operace
-    Důležitost: **MIDDLE**
-    Aritmemitcké výpočty s číslem zobrazené v binární podobě, možnost si zvolit kolika bitová čísla se vuyžívají. Možnost provádět logické operace, NOT, AND, OR, XOR, NAND, NOR, EXCLUSIVE OR.
+    - Důležitost: **MIDDLE**
+    - Aritmemitcké výpočty s číslem zobrazené v binární podobě, možnost si zvolit kolika bitová čísla se vuyžívají. Možnost provádět logické operace, NOT, AND, OR, XOR, NAND, NOR, EXCLUSIVE OR.
+    - Je potřeba aby byl zaveden systém priorit v podobě závorek, ať jsou použitelné všechny závorky. Používání desetiných čísel ve výpočtech.
   - ### Historie
-    Důležitost: **MIDDLE**
-    Zobrazení pouze průběžných výsledku (všech).
+    - Důležitost: **MIDDLE**
+    - Zobrazení pouze průběžných výsledku (všech).
   - ### Ukládání v paměti
-    Důležitost: **LOW**
-    Ukládání průběžných výpočtů a pozdější načtení zpátky. V případě že potřebujeme vypnout aplikaci ci jít počítat něco jiného tato funkce uloží historii a současný výpočet.
+    - Důležitost: **LOW**
+    - Ukládání průběžných výpočtů a pozdější načtení zpátky. V případě že potřebujeme vypnout aplikaci ci jít počítat něco jiného tato funkce uloží historii a současný výpočet.
   - ### Nastavení
-    Důležitost: **LOW**
-    Přidání Binárních výpočtů a logických operací, změna fontu, změna velikosti fontu, změna zbarvení aplikace.
+    - Důležitost: **LOW**
+    -Přidání Binárních výpočtů a logických operací, změna fontu, změna velikosti fontu, změna zbarvení aplikace.
   - ### Popis a důležitost
     
     
