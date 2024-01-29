@@ -47,4 +47,5 @@
     - Přidání Binárních výpočtů a logických operací, změna fontu, změna velikosti fontu, změna zbarvení aplikace.
   - ### Popis a důležitost
     
-    
+PŘIDAT ČÍSLOVÁNÍ
+PŘIDAT VŠECHNY 4 ZÁKLADNÍ FUNKCE A KLIDNĚ VÍC
