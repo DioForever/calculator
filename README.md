@@ -26,7 +26,11 @@
        Desktopová aplikace, nebude tam víc věcí než nutno, základní operace a další operace přes rozkliknutí možné přidat.
 - ## Vlastnosti systému
   - ### Aritmetické výpočty
+    Základní aritmetické výpočty jako sčítání, odčítání, dělení, násobení, mocniny, odmocniny.
   - ### Binární výpočty a logické operace
+    Aritmemitcké výpočty s číslem zobrazené v binární podobě, možnost si zvolit kolika bitová čísla se vuyžívají. Možnost provádět logické operace, NOT, AND, OR, XOR, NAND, NOR, EXCLUSIVE OR.
   - ### Nastavení
-  - ### 
+    Přidání Binárních výpočtů a logických operací, změna fontu, změna velikosti fontu, změna zbarvení aplikace.
+  - ### Popis a důležitost
+    
     
