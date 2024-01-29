@@ -41,9 +41,10 @@
   - ### Ukládání v paměti
     - Důležitost: **LOW**
     - Ukládání průběžných výpočtů a pozdější načtení zpátky. V případě že potřebujeme vypnout aplikaci ci jít počítat něco jiného tato funkce uloží historii a současný výpočet.
+    - Je potřeba aby byla zavedena hiearchie ve které byly tyto instance uloženy a aby uživatel mohl dále pokračovat ve výpočtech po načtení.
   - ### Nastavení
     - Důležitost: **LOW**
-    -Přidání Binárních výpočtů a logických operací, změna fontu, změna velikosti fontu, změna zbarvení aplikace.
+    - Přidání Binárních výpočtů a logických operací, změna fontu, změna velikosti fontu, změna zbarvení aplikace.
   - ### Popis a důležitost
     
     
