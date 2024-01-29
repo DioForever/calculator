@@ -8,10 +8,10 @@
     
 - ## Popis
   - ### Funkce
-    Funkce zahrnují **základní arimetické** funkce jako je sčítání, odčítání, dělení, násobení, mocniny, odmocnity a další **základní funkce** jako modulus. Funkce **požadované pro využití aplikace** jako vymazání současného výpočtu, zobrazení výsledku a zapisování desetiných čísel. **Rozšířené funkce** jako zobrazení čísel v binárním zobrazení či hexadecimálním, a práce s těmito čísli jako v základních funkcích. Další rozšířené funkce jsou **logické operace** jako OR, AND, XOR. **Nastavení**, kde si uživatel může nastavit počet zobrazených desetiných čísel.
+    Funkce zahrnují **základní arimetické** funkce jako je sčítání, odčítání, dělení, násobení, mocniny, odmocnity a další **vědecké funkce** jako modulus, log, ln, x^y, exp. Funkce **požadované pro využití aplikace** jako vymazání současného výpočtu, zobrazení výsledku a zapisování desetiných čísel. **Rozšířené funkce** jako zobrazení čísel v binárním zobrazení či hexadecimálním, a práce s těmito čísli jako v základních funkcích. Další rozšířené funkce jsou **logické operace** jako OR, AND, XOR. **Nastavení**, kde si uživatel může nastavit počet zobrazených desetiných čísel.
         
   - ### Uživatelské skupiny
-    Budou tam dva profily, které si může uživatel vybrat. **Normální uživatel**, pouze základní funkce a **programátor** by měl možnost překliknout do jiného zobrazení čísel (binárního, hexadecimálního), u kterých může využívat také základní funkce, zároveň bude moct používat logické operace.
+    Budou tam dva profily, které si může uživatel vybrat. **Normální uživatel**, pouze základní funkce a **programátor** by měl možnost překliknout do jiného zobrazení čísel (binárního, hexadecimálního), u kterých může využívat také základní funkce, zároveň bude moct používat logické operace. Profil **"Vědec"** přidá **vědecké funkce** k základním. Profil **"Datumy"**
     
   - ### Uživatelské prostředí
     Tlačítko, pro přestup do **nastavení**, kde si uživatel může nastavit barevnou kombinaci aplikace, font, velikost fontu a počet desetinných míst. Zobrazení **historie** výpočtů, defaultně krátkou ale s možností rozkliknout a zobrazi plnou historii. Práce s **pamětí**, ukládání/mazání výpočtů do/z paměti, načítání z paměti a mazání celé paměti. Grid tlačítek pro všechny funkce popsané ve funkcích.
