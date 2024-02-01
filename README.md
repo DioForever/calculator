@@ -21,6 +21,7 @@
     Tato aplikace je cílená na počítače, expanze na mobilní zařízení není plánovaná
   - ### 2.5 Uživatelské prostředí
     Tlačítko, pro přestup do **nastavení**, kde si uživatel může nastavit barevnou kombinaci aplikace, font, velikost fontu a počet desetinných míst. Zobrazení **historie** výpočtů, defaultně krátkou ale s možností rozkliknout a zobrazi plnou historii. Práce s **pamětí**, ukládání/mazání výpočtů do/z paměti, načítání z paměti a mazání celé paměti. Grid tlačítek pro všechny funkce popsané ve funkcích.
+    
 ![image](https://github.com/DioForever/calculator/assets/78236175/123cd223-3b8b-47bc-bf82-cad3f23766bf)
 
   - ### 2.6 Omezení návrhu a implementace
