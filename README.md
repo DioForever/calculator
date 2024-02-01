@@ -1,13 +1,16 @@
 # Kalkulačka
-- ## Úvod
-  Účel je udělat základní arimetické operace, funkce s pamětí (save, load, clear memory). Tento dokument je určený pro toho, kdo se snaží vytvořit Kalkulačku.
-  Kontaktní informace na tvůrce dokumentu:
+- ## 1. Úvod
+  1.1 Účel je udělat základní arimetické operace, funkce s pamětí (save, load, clear memory).
+  1.3 Tento dokument je určený pro toho, kdo se snaží vytvořit Kalkulačku.
+  1. 4Kontaktní informace na tvůrce dokumentu:
   - Mail: vaskodaniel1@gmail.com
   Ostatní dokumenty:
   - ?
     
-- ## Popis
-  - ### Funkce
+- ## 2. Popis
+  - ### 2.1 Produkt
+    Produkt bude vyvářen v jazyku C# a bude spouštěn jako .exe soubor
+  - ### 2.2 Funkce
     Funkce zahrnují **základní arimetické** funkce jako je sčítání, odčítání, dělení, násobení, mocniny, odmocnity a další **vědecké funkce** jako modulus, log, ln, x^y, exp, Pi, absolutní hodnota. Funkce **požadované pro využití aplikace** jako vymazání současného výpočtu, zobrazení výsledku a zapisování desetiných čísel. **Rozšířené funkce** jako zobrazení čísel v binárním zobrazení či hexadecimálním, a práce s těmito čísli jako v základních funkcích. Další rozšířené funkce jsou **logické operace** jako OR, AND, XOR. **Datové funkce**, rozdíl, sčítání a odčítání datumů. **Nastavení**, kde si uživatel může nastavit počet zobrazených desetiných čísel.
         
   - ### Uživatelské skupiny
