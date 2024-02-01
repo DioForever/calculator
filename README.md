@@ -1,11 +1,13 @@
 # Kalkulačka
 - ## 1. Úvod
-  1.1 Účel je udělat základní arimetické operace, funkce s pamětí (save, load, clear memory).
-  1.3 Tento dokument je určený pro toho, kdo se snaží vytvořit Kalkulačku.
-  1. 4Kontaktní informace na tvůrce dokumentu:
-  - Mail: vaskodaniel1@gmail.com
-  Ostatní dokumenty:
-  - ?
+  - ### 1.1 Účel
+    - Udělat základní arimetické operace, funkce s pamětí (save, load, clear memory).
+  - ### 1.2 Konvence dokumentu
+    - Exe soubor v jazyku C
+  - ### 1.3 Cílová skupina
+    - Tento dokument je určený pro ty, kdo se snaží vytvořit Kalkulačku.
+  - ### 1.4 Kontakty
+    - Mail: vaskodaniel1@gmail.com
     
 - ## 2. Popis
   - ### 2.1 Produkt
@@ -19,7 +21,7 @@
     Tato aplikace je cílená na počítače, expanze na mobilní zařízení není plánovaná
   - ### 2.5 Uživatelské prostředí
     Tlačítko, pro přestup do **nastavení**, kde si uživatel může nastavit barevnou kombinaci aplikace, font, velikost fontu a počet desetinných míst. Zobrazení **historie** výpočtů, defaultně krátkou ale s možností rozkliknout a zobrazi plnou historii. Práce s **pamětí**, ukládání/mazání výpočtů do/z paměti, načítání z paměti a mazání celé paměti. Grid tlačítek pro všechny funkce popsané ve funkcích.
-    [<img src="[image.png](https://github.com/DioForever/calculator/assets/78236175/82edf66d-9a43-4421-be43-21a5d6969d97)" width="250"/>](image.png)
+![image](https://github.com/DioForever/calculator/assets/78236175/123cd223-3b8b-47bc-bf82-cad3f23766bf)
 
   - ### 2.6 Omezení návrhu a implementace
     Aplikace nebude obsahovat možnost kopírovat a vkládat, zkratky do aplikace.
@@ -57,7 +59,3 @@
   - ### 4.7 Nastavení
     - Důležitost: **LOW**
     - Přidání Binárních výpočtů a logických operací, změna fontu, změna velikosti fontu, změna zbarvení aplikace.
-  - ### Popis a důležitost
-    
-PŘIDAT ČÍSLOVÁNÍ
-PŘIDAT VŠECHNY 4 ZÁKLADNÍ FUNKCE A KLIDNĚ VÍC
