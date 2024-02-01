@@ -39,17 +39,22 @@
   - ### 4.3 Binární výpočty a logické operace
     - Důležitost: **MIDDLE**
     - Aritmemitcké výpočty s číslem zobrazené v binární podobě, možnost si zvolit kolika bitová čísla se vuyžívají. Možnost provádět logické operace, NOT, AND, OR, XOR, NAND, NOR, EXCLUSIVE OR.
-   - ### 4.4 Vědecké funkce
+    - Stejné podmínky jako u **Aritmetických výpočtů**
+  - ### 4.4 Vědecké funkce
     - Důležitost: **MIDDLE**
     - Bude obsahovat Pi, absolutní hodnotu, exp, modulus, n!, log, ln operace
-  - ### Historie
+    - Stejné podmínky jako u **Aritmetických výpočtů**
+  - ### 4.4 Datové funkce
+    - Důležitost: **MIDDLE**
+    - Možnost zadat datum v základním formátu, získat rozdíl mezi 2 daty, sečíst a odečíst datumy.
+  - ### 4.5 Historie
     - Důležitost: **MIDDLE**
     - Zobrazení pouze průběžných výsledku (všech).
-  - ### Ukládání v paměti
+  - ### 4.6 Ukládání v paměti
     - Důležitost: **LOW**
     - Ukládání průběžných výpočtů a pozdější načtení zpátky. V případě že potřebujeme vypnout aplikaci ci jít počítat něco jiného tato funkce uloží historii a současný výpočet.
     - Je potřeba aby byla zavedena hiearchie ve které byly tyto instance uloženy a aby uživatel mohl dále pokračovat ve výpočtech po načtení.
-  - ### Nastavení
+  - ### 4.7 Nastavení
     - Důležitost: **LOW**
     - Přidání Binárních výpočtů a logických operací, změna fontu, změna velikosti fontu, změna zbarvení aplikace.
   - ### Popis a důležitost
