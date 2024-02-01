@@ -32,14 +32,16 @@
   - ### 4.1 Aritmetické výpočty
     - Důležitost: **HIGH**
     - Základní aritmetické výpočty jako sčítání, odčítání, dělení, násobení, mocniny, odmocniny.
+    - Je potřeba aby byl zaveden systém priorit v podobě závorek, ať jsou použitelné všechny závorky. Používání desetiných čísel ve výpočtech.
   - ### 4.2 Základní
     - Důležitost: **HIGH**
     - Mazání výpočtů, zobrazení výsledků.
   - ### 4.3 Binární výpočty a logické operace
     - Důležitost: **MIDDLE**
     - Aritmemitcké výpočty s číslem zobrazené v binární podobě, možnost si zvolit kolika bitová čísla se vuyžívají. Možnost provádět logické operace, NOT, AND, OR, XOR, NAND, NOR, EXCLUSIVE OR.
-    - Je potřeba aby byl zaveden systém priorit v podobě závorek, ať jsou použitelné všechny závorky. Používání desetiných čísel ve výpočtech.
-    - 
+   - ### 4.4 Vědecké funkce
+    - Důležitost: **MIDDLE**
+    - Bude obsahovat Pi, absolutní hodnotu, exp, modulus, n!, log, ln operace
   - ### Historie
     - Důležitost: **MIDDLE**
     - Zobrazení pouze průběžných výsledku (všech).
