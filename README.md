@@ -62,12 +62,12 @@
     - Přidání Binárních výpočtů a logických operací, změna fontu, změna velikosti fontu, změna zbarvení aplikace.
 - ## 5. Nefunkční požadavky
   - ### 5.1 Výkonnost
-    - Skoro "intantní" odezva a výpočty
+    - Skoro "intantní" odezva a výpočty.
   - ### 5.2 Bezpečnost
-    - Není potřeba řešit
+    - Není potřeba řešit, je to offline aplikace.
   - ### 5.3 Spolehlivost
-    - 
+    - Fukčnost aplikace (zapnutí, vypnutí), předejít crashnutí aplikace z výpočetních důvodů.
   - ### 5.4 Projektová dokumentace
-    - 
+    - Současný dokument.
   - ### 5.5 Uživatelská dokumentace
-    - 
+    - Microsoft dokumentace: https://support.microsoft.com/cs-cz/windows/kalkulačka-ve-windows-10-8dc0eb59-a45f-72b6-71bd-e752920f36c3
