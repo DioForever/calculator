@@ -60,3 +60,14 @@
   - ### 4.7 Nastavení
     - Důležitost: **LOW**
     - Přidání Binárních výpočtů a logických operací, změna fontu, změna velikosti fontu, změna zbarvení aplikace.
+- ## 5. Nefunkční požadavky
+  - ### 5.1 Výkonnost
+    - Skoro "intantní" odezva a výpočty
+  - ### 5.2 Bezpečnost
+    - Není potřeba řešit
+  - ### 5.3 Spolehlivost
+    - 
+  - ### 5.4 Projektová dokumentace
+    - 
+  - ### 5.5 Uživatelská dokumentace
+    - 
