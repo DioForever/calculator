@@ -52,7 +52,7 @@
     - Možnost zadat datum v základním formátu, získat rozdíl mezi 2 daty, sečíst a odečíst datumy.
   - ### 4.5 Historie
     - Důležitost: **MIDDLE**
-    - Zobrazení pouze průběžných výsledku (všech).
+    - Zobrazení pouze průběžných výsledku (možnost zobrazit celou historii).
   - ### 4.6 Ukládání v paměti
     - Důležitost: **LOW**
     - Ukládání průběžných výpočtů a pozdější načtení zpátky. V případě že potřebujeme vypnout aplikaci ci jít počítat něco jiného tato funkce uloží historii a současný výpočet.
