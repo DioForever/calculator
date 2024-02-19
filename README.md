@@ -68,6 +68,7 @@
   - ### 5.3 Spolehlivost
     - Fukčnost aplikace (zapnutí, vypnutí), předejít crashnutí aplikace z výpočetních důvodů.
     - Zajistit správnost výsledků.
+    - Funkčnost aplikace na všech supported verzích Windows OS.
   - ### 5.4 Projektová dokumentace
     - Současný dokument.
   - ### 5.5 Uživatelská dokumentace
