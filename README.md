@@ -3,7 +3,7 @@
   - ### 1.1 Účel
     - Udělat základní arimetické operace, funkce s pamětí (save, load, clear memory).
   - ### 1.2 Konvence dokumentu
-    - Exe soubor v jazyku C
+    - Exe soubor v jazyku C#
   - ### 1.3 Cílová skupina
     - Tento dokument je určený pro ty, kdo se snaží vytvořit Kalkulačku.
   - ### 1.4 Kontakty
