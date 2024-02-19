@@ -67,6 +67,7 @@
     - Není potřeba řešit, je to offline aplikace.
   - ### 5.3 Spolehlivost
     - Fukčnost aplikace (zapnutí, vypnutí), předejít crashnutí aplikace z výpočetních důvodů.
+    - Zajistit správnost výsledků.
   - ### 5.4 Projektová dokumentace
     - Současný dokument.
   - ### 5.5 Uživatelská dokumentace
